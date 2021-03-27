@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza-Seydi&show_icons=true&theme=gruvbox&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortaza-Seydi&layout=compact&hide=javascript,html,css&langs_count=8)]()
+
 <!--
 **Mortaza-Seydi/Mortaza-Seydi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
