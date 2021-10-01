@@ -21,13 +21,12 @@
 
 ## :fire: My Github Stats & Trophies
 
-<p>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mortaza-Seydi&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats%20💻"></img>
-<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortaza-Seydi&layout=compact&hide=javascript,html,css&langs_count=8&theme=gruvbox&custom_title=My%20Languages%20🍕"></img>
-<p>
-
-<p>
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=Mortaza-Seydi&theme=solarized-dark&hide_border=true"></img>
+<p align="center">
+<img height="200em" width="54%" src="https://github-readme-stats.vercel.app/api?username=Mortaza-Seydi&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats%20💻"></img>
+<img  height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortaza-Seydi&layout=compact&hide=javascript,html,css&langs_count=8&theme=gruvbox&custom_title=My%20Languages%20🍕"></img>
+</p>
+<p align="center">
+<img height="200em" width="54%" src="http://github-readme-streak-stats.herokuapp.com?user=Mortaza-Seydi&theme=solarized-dark&hide_border=true"></img>
 <img height="200em" width="45%" src="https://github-profile-trophy.vercel.app/?username=Mortaza-Seydi&theme=dracula&margin-w=40&margin-h=20&no-frame=true&row=2&column=3"></img> 
 <p>
 
